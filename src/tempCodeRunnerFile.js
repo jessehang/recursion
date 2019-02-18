@@ -1,0 +1,1 @@
+console.log(stringifyJSON([new Number(3), new String('false'), new Boolean(false)]));
